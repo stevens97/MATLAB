@@ -1,4 +1,4 @@
-# MATLAB_Numerical_Analysis
+# MATLAB Numerical Analysis
 
 This repository is a collection of MATLAB scripts for numerical differentiation, numerical integration, and numerical interpolation.
 
