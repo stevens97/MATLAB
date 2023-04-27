@@ -31,5 +31,5 @@ for k=2:n
     end
     P(x)= P(x)+X(k,k+1)*L(x);
 end
-fprintf('\nNewtown Interpolation Polynomial: \n')
+fprintf('\nNewton Interpolation Polynomial: \n')
 simplify(P(x))
